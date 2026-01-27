@@ -83,5 +83,5 @@ The following tools and skills are required throughout this guide:<br>
 
    
 
-#### Once this has been completed, you will be greeted by the Wi-Fi set-up menu. You may now finish to configuring your device. 
+#### Once this has been completed, you will be greeted by the Wi-Fi set-up menu. You may now finish setting up your device. 
 
